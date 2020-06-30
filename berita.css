@@ -1,0 +1,15 @@
+.footer{
+    background-image: url(..//webbberitabola/img/bgfooter.jpg);
+    text-align: center;
+    padding-top: 4rem;
+    background-size: cover;
+}
+.border{
+    margin-top: 3rem;
+    background-color: rgb(179, 110, 19);
+    color: white;
+
+}
+.bg{
+    background-color: rgb(226, 223, 223);
+}
